@@ -18,6 +18,7 @@ python latihan/02_bandingkan_dua_bilangan.py
 python latihan/03_kelulusan_bersyarat.py
 python latihan/04_jenis_segitiga.py
 python tugas/analisis_persamaan_kuadrat.py
+```
 
 ## Algoritma Tugas
 
